@@ -51,12 +51,12 @@ Organizado en 4 bloques de 2 semanas cada uno:
 
 ## 📁 Estructura del Repositorio
 
-discipline-drive-code/
-├── resúmenes/ # Apuntes por tema
-├── ejercicios/ # Problemas resueltos paso a paso
-├── proyectos/ # C++ y mini proyectos aplicados
-├── plan.md # Documento del plan de estudio
-└── README.md # Este archivo
+```discipline-drive-code/```
+```├── resúmenes/ # Apuntes por tema```
+```├── ejercicios/ # Problemas resueltos paso a paso```
+```├── proyectos/ # C++ y mini proyectos aplicados```
+```├── plan.md # Documento del plan de estudio```
+```└── README.md # Este archivo```
 
 ---
 
