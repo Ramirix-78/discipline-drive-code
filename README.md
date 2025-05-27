@@ -60,6 +60,15 @@ discipline-drive-code/
 ```
 ---
 
+## 🛠 ¿Qué vas a encontrar en este repo?
+
+- Archivos `.md` con teoría resumida y explicaciones propias.
+- Ejercicios resueltos paso a paso (matemáticas y lógica).
+- Proyectos pequeños o scripts en C++ aplicando conceptos vistos.
+- Bitácora de avances semanales y reflexiones personales.
+
+---
+
 ## ✨ Meta a largo plazo
 
 - Ser capaz de resolver problemas matemáticos y algorítmicos con confianza.  
@@ -75,7 +84,7 @@ Este repo es personal, pero si alguien llega aquí y encuentra valor, ¡bienveni
 ---
 
 ## 🧢 Autor
-
+**Nombre:** _Reza_  
 **Estudiante de Ingeniería en Sistemas & Apasionado por la programación, la lógica y el progreso físico y mental.**
 
 > “La mente afilada y el cuerpo fuerte: esa es la verdadera ingeniería.” ⚙️💪
