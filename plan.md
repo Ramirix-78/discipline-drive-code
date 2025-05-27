@@ -27,10 +27,10 @@
 ---
 
 ## ⏰ Rutina semanal (Lunes a Viernes)
-- **08:00 – 09:00:** Matemáticas (según la semana)
-- **09:00 – 09:30:** Pausa ligera, desayuno, descanso
-- **09:30 – 10:15:** Lógica / Discreta / C++
-- **10:15 – 11:00:** Repaso, resumen, ejercicios o mini proyectos
+- **07:30 – 09:00:** Matemáticas (según la semana)
+- **09:00 – 11:00:** Gym
+- **11:30 – 12:30:** Lógica / Discreta / C++
+- **13:00 – 14:00:** Repaso, resumen, ejercicios o mini proyectos
 
 **Sábados:** Clases en la U (aprovechá para sacar dudas y aterrizar conceptos)  
 **Domingos:** Día libre o usar 1h para repasar lo que viste entre semana
