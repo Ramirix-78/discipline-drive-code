@@ -41,4 +41,3 @@
 - Estudiar con constancia es mejor que intentar aprender todo en un solo día.
 - Herramientas como **Anki**, **Notion**, y grupos de **Discord** ayudan un montón.
 - Esta etapa de formación de bases te va a blindar para álgebra lineal, discreta, cálculo y análisis de algoritmos más adelante.
-"""
